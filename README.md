@@ -16,5 +16,5 @@ For Example:
 * node liri.js spotify-this-song This is America
 
 # Link to video
-![image] https://drive.google.com/file/d/1ttjkV9FVWj0rVU7GIDCTLKyoVRRMLFj_/view
+ https://drive.google.com/file/d/1ttjkV9FVWj0rVU7GIDCTLKyoVRRMLFj_/view
 
